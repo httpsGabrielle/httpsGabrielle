@@ -1,9 +1,12 @@
 # Olá! Seja bem-vindo <img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="50">
 
+:wave: Meu nome é Gabrielle Silva, sou apaixonada por desenvolvimento Web e UX/UI. 
 <br>
 <br>
-
-:wave: Meu nome é Gabrielle Silva, sou apaixonada por desenvolvimento Web e UX/UI. Trabalho como estagiaria na area de TI da prefeitura e estou sempre em busca de oportunidades de aprender coisas novas. Tenho 19 anos, moro e estudo em Itu, interior de São paulo. Estou no quarto semestre de Analise e Desenvolvimento de Sistemas na Faculdade Fatec Dom Amaury Castanho.
+- :briefcase: Trabalho como estagiaria na area de TI da prefeitura.
+- :computer: Estou sempre em busca de oportunidades de aprender coisas novas. 
+- :pushpin: Tenho 19 anos, moro e estudo em Itu, interior de São paulo. 
+- :mortar_board: Estou no 4º semestre de Analise e Desenvolvimento de Sistemas na Faculdade Fatec Dom Amaury Castanho.
 
 <br>
 <br>
