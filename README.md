@@ -17,8 +17,6 @@
 <img src="https://img.icons8.com/color/344/figma--v1.png" width="50">
 <img src="https://img.icons8.com/color/344/git.png" width="50">
 
-<br>
-
 ### :seedling: Aprendendo no momento
 <img src="https://img.icons8.com/color/344/python--v1.png" width="50"><img src="https://img.icons8.com/ios/344/django.png" width="50">
 <img src="https://img.icons8.com/color/344/vue-js.png" width="50">
