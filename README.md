@@ -3,9 +3,9 @@
 :wave: Meu nome é Gabrielle Silva, sou apaixonada por desenvolvimento Web e UX/UI. 
 <br>
 <br>
-- :briefcase: Trabalho como estagiaria na area de TI da prefeitura.
+- :briefcase: Trabalho como estagiária na área de TI da Secretaria de Educação da Prefeitura de Itu.
 - :computer: Estou sempre em busca de oportunidades de aprender coisas novas. 
-- :pushpin: Tenho 19 anos, moro e estudo em Itu, interior de São paulo. 
+- :pushpin: Tenho 19 anos, moro e estudo em Itu, interior de São Paulo. 
 - :mortar_board: Estou no 4º semestre de Analise e Desenvolvimento de Sistemas na Faculdade Fatec Dom Amaury Castanho.
 
 <br>
