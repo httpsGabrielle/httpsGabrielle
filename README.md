@@ -13,7 +13,7 @@
 <br>
 <br>
 
-### :telescope: Conhecimentos em:
+### :telescope: Conhecimento em:
 <img src="https://img.icons8.com/color/344/html-5--v2.png" width="50"><img src="https://img.icons8.com/color/344/javascript--v1.png" width="50">
 <img src="https://img.icons8.com/color/344/angularjs.png" width="50">
 <img src="https://img.icons8.com/color/344/bootstrap.png" width="50">
