@@ -5,7 +5,7 @@
 <br>
 - :briefcase: Trabalho como estagiária na área de TI na Secretaria de Educação da Prefeitura de Itu.
 - :computer: Estou sempre em busca de oportunidades de aprender coisas novas. 
-- :pushpin: Tenho 19 anos, moro e estudo em Itu, interior de São Paulo. 
+- :pushpin: Tenho 20 anos, moro e estudo em Itu, interior de São Paulo. 
 - :mortar_board: Estou no 4º semestre de Analise e Desenvolvimento de Sistemas na Faculdade Fatec Dom Amaury Castanho.
 
 <br>
