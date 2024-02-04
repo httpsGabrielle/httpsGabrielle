@@ -14,8 +14,7 @@
 <br>
 
 ### :telescope: Linguagens e ferramentas:
-<img width="50" height="50" src="https://img.icons8.com/office/50/react.png" alt="react"/>
-<img src="https://img.icons8.com/color/344/angularjs.png" width="50">
+<img width="50" height="50" src="https://img.icons8.com/office/50/react.png" alt="react"/><img src="https://img.icons8.com/color/344/angularjs.png" width="50">
 <img src="https://img.icons8.com/color/344/bootstrap.png" width="50">
 <img src="https://img.icons8.com/color/344/html-5--v2.png" width="50"><img src="https://img.icons8.com/color/344/javascript--v1.png" width="50">
 
