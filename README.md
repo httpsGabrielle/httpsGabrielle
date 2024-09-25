@@ -9,19 +9,18 @@
 - :mortar_board: Sou formada em Analise e Desenvolvimento de Sistemas na Faculdade Fatec Dom Amaury Castanho.
 
 <br>
-<br>
-<br>
-<br>
 
-### :telescope: Linguagens e ferramentas:
-<img width="50" height="50" src="https://img.icons8.com/office/50/react.png" alt="react"/><img src="https://img.icons8.com/color/344/angularjs.png" width="50">
+### :rocket: Linguagens e ferramentas:
+<img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react"/><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width='50px'/>
 <img src="https://img.icons8.com/color/344/bootstrap.png" width="50">
-<img src="https://img.icons8.com/color/344/html-5--v2.png" width="50"><img src="https://img.icons8.com/color/344/javascript--v1.png" width="50">
+<img src="https://img.icons8.com/color/48/html-5--v1.png" width="50"><img src="https://img.icons8.com/color/344/javascript--v1.png" width="50">
+<img src="https://img.icons8.com/color/344/python--v1.png" width="50"><img src="https://img.icons8.com/color/344/angularjs.png" width="50">
+<img src="https://img.icons8.com/color/344/django.png" width="50">
 
-
-### :seedling: Aprendendo no momento
-<img src="https://img.icons8.com/color/344/python--v1.png" width="50"><img src="https://img.icons8.com/ios/344/django.png" width="50">
+## 📫 Como me encontrar
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monicamhillman/)](https://www.linkedin.com/in/gabrielle040/)
 ---
+
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsGabrielle&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=httpsGabrielle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
