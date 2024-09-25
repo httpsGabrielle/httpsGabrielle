@@ -17,7 +17,7 @@
 <img src="https://img.icons8.com/color/344/python--v1.png" width="50"><img src="https://img.icons8.com/color/344/angularjs.png" width="50">
 <img src="https://img.icons8.com/color/344/django.png" width="50">
 
-## 📫 Como me encontrar
+### 📫 Como me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monicamhillman/)](https://www.linkedin.com/in/gabrielle040/)
 ---
 
