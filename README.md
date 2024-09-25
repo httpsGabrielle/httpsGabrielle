@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo <img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="50">
 
-:wave: Meu nome é Gabrielle Silva, sou apaixonada por desenvolvimento Web e UX/UI. 
+:wave: Meu nome é Gabrielle Oliveira, sou uma desenvolvedora front-end apaixonada por tecnologia e inovação. Formada em Análise e Desenvolvimento de Sistemas pela Fatec Dom Amaury Castanho, atualmente trabalho como desenvolvedora front-end na área de RFID. 
 <br>
 <br>
 - :briefcase: Trabalho com desenvolvimento Front-End.
