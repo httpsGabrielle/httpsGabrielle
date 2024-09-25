@@ -5,7 +5,7 @@
 <br>
 - :briefcase: Trabalho com desenvolvimento Front-End.
 - :computer: Estou sempre em busca de oportunidades de aprender coisas novas. 
-- :pushpin: Tenho 21 anos, moro e estudo em Itu, interior de São Paulo. 
+- :pushpin: Tenho 22 anos, moro e estudo em Itu, interior de São Paulo. 
 - :mortar_board: Sou formada em Analise e Desenvolvimento de Sistemas na Faculdade Fatec Dom Amaury Castanho.
 
 <br>
